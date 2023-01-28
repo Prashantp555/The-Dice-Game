@@ -1,0 +1,78 @@
+body{
+    text-align: center;
+    background-color: #9ED5C5;
+}
+.rulesHead{
+    color: #153462;
+    text-align: center;
+}
+
+.rules{
+    text-align: left;
+    font-size: 1.5rem;
+    color: #393E46;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2rem 2rem 2rem 37rem;
+}
+.heading{
+    padding: 0 4rem;
+}
+#game{
+   
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 4rem 5rem 1rem;
+}
+.player1{
+    background-color: white;
+    padding: 4rem 5rem 1rem;
+    display: inline-block;
+    text-align: center;
+}
+.player2{
+    background-color: gray;
+    padding: 4rem 5rem 1rem;
+    display: inline-block;
+    text-align: center;
+}
+
+.s1 .s2{
+    display: inline-block;
+}
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    
+    font-size: 4rem;
+    color: #4ECCA3;
+  }
+
+h2{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+    color: rgb(123, 92, 236);
+}  
+
+.img1{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.img2{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+h3{
+    font-family: 'Arima Madurai', cursive;
+}
+p{
+    font-family: 'Arima Madurai', cursive;
+    font-size: 3rem;
+}
+#play{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    
+}
